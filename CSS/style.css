@@ -1,0 +1,28 @@
+h1 {
+    font-style: italic;
+    text-align: right;
+    color: rgb(103, 13, 145);
+}
+p {
+    text-align: end;
+    color: rgb(2, 4, 12);
+}
+h2 {
+    color: rgb(9, 11, 139);
+    text-align: center;
+}
+h3{
+    color: rgb(80, 7, 21);
+    text-align: center;
+}
+h4{
+    color: rgb(110, 62, 3);
+    text-align: left;
+}
+h6{
+    color: rgb(90, 1, 46);
+    text-align-last: right;
+}
+body {
+    background-image: url(eyes.jpg); background-repeat: no-repeat;
+}
